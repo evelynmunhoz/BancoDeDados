@@ -1,0 +1,5 @@
+#### Atividae prática 
+Crie um novo banco de dados para armazenar a tabela de livros
+-Crie uma tabela com as colunas (id,nome,autor,preco,genero,estoque,ano_publicacao)
+-Lembre-se de escolher as variáveis adequadas!
+

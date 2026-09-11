@@ -1,0 +1,19 @@
+CREATE TABLE cidades (
+    id INT PRIMARY KEY,
+    nome_cidade VARCHAR(100) NOT NULL,
+    pais VARCHAR(100) NOT NULL,
+    populacao INT NOT NULL
+);
+
+INSERT INTO cidades (id, nome_cidade, pais, populacao)
+VALUES
+(1, 'Tokyo', 'Japão', 14000000),
+(2, 'Nova York', 'Estados Unidos', 8400000),
+(3, 'Los Angeles', 'Estados Unidos', 3900000),
+(4, 'Londres', 'Reino Unido', 8900000),
+(5, 'Seul', 'Coreia do Sul', 9400000),
+(6, 'Paris', 'França', 2100000),
+(7, 'Chicago', 'Estados Unidos', 2700000),
+(8, 'Osaka', 'Japão', 2700000),
+(9, 'São Francisco', 'Estados Unidos', 810000),
+(10, 'Xangai', 'China', 25000000);
