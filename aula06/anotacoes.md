@@ -23,10 +23,17 @@ SELECT COUNT (*) FROM produtos;
 ```
 
 Filto de faixas:
+
+Para mostrar produtos dentro de uma determinada faixa de preço, podemos utilizar BETWEEN.
+
+Exemplo: produtos entre R$ 100,00 e R$ 500,00:
 ```sql
+SELECT nome, preco
+FROM produtos
+WHERE preco BETWEEN 100.00 AND 500.00;
 ```
 
-Para organizar em oredm do menor para o maior:
+Para organizar em ordem do menor para o maior:
 ```sql 
 SELECT nome,preco
 FROM produtos
