@@ -9,51 +9,6 @@ Atenção aos tipos: ano e estoque são números inteiros; o preço tem casas de
 
 ![alt text](<Captura de tela 2026-09-18 090211.png>)
 
-/// {
-  "titulo": "Minecraft",
-  "plataforma": "PC",
-  "genero": "Sandbox",
-  "desenvolvedora": "Mojang",
-  "ano_lancamento": 2011,
-  "preco": 99.90,
-  "estoque": 25
-}
-{
-  "titulo": "Fortnite",
-  "plataforma": "PC",
-  "genero": "Battle Royale",
-  "desenvolvedora": "Epic Games",
-  "ano_lancamento": 2017,
-  "preco": 0.00,
-  "estoque": 50
-}
 
-{
-  "titulo": "GTA V",
-  "plataforma": "PC",
-  "genero": "Ação",
-  "desenvolvedora": "Rockstar Games",
-  "ano_lancamento": 2013,
-  "preco": 119.90,
-  "estoque": 15
-}
 
-{
-  "titulo": "Sonic X Shadow Generations",
-  "plataforma": "PS5",
-  "genero": "Ação e Plataforma",
-  "desenvolvedora": "Sega",
-  "ano_lancamento": 2024,
-  "preco": 199.90,
-  "estoque": 10
-}
 
-{
-  "titulo": "Marvel's Spider-Man 2",
-  "plataforma": "PS5",
-  "genero": "Ação e Aventura",
-  "desenvolvedora": "Insomniac Games",
-  "ano_lancamento": 2023,
-  "preco": 249.90,
-  "estoque": 12
-}
