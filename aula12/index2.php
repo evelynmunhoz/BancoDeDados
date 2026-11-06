@@ -1,0 +1,12 @@
+<?php
+class carro{
+    public $marca;
+    public $modelo;
+}
+
+$carro_felipe = new carro();
+$carro_felipe->marca = "Volkswagen";
+$carro_felipe->modelo = "Golf GTI";
+
+echo "$carro_felipe->marca\n";
+echo "$carro_felipe->modelo\n";
